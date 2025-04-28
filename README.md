@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught full stack web developer without a formal degree. <br>I have developed skills through practical experience and building projects. <br>I am passionate about web development and eager to find opportunities to grow and contribute to an organization.<br>
+I am a self-taught full stack web developer. <br>I have developed skills through practical experience and building projects. <br>I am passionate about web development and eager to find opportunities to grow and contribute to an organization.<br>
 
 
 ## 🌐 Socials:
