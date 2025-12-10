@@ -9,7 +9,7 @@ These are not just codebases; they are live applications being used by real peop
 
 | Project | Tech Stack | Live Link | Key Achievements |
 | :--- | :--- | :--- | :--- |
-| **JobPadosi** – Job Portal | MERN, Stripe, Firebase | [jobpadosi.com](https://www.jobpadosi.com) | Served 1000+ users; built admin analytics reducing moderation time by 30%. |
+| **JobPadosi** – Job Portal | MERN, Stripe, Firebase | [jobpadosi.com](https://www.jobpadosi.com) | built admin analytics reducing moderation time by 30%. |
 | **Royal House Designs** – Real Estate Platform | MERN, AWS EC2, Razorpay | [royalhousedesign.com](https://www.royalhousedesign.com) | Cut manual inquiry handling by ~50% with dashboard & payment integration. |
 | **Dharmtantra** – News Portal (Internship) | MERN, Render, SEO | [dharmtantra.com](https://www.dharmtantra.com) | Boosted organic traffic by **300%** through SEO & performance optimization. |
 | **RoastCode AI** – AI Code Reviewer | Flask, OpenAI, Gemini, ElevenLabs | [Live App](https://roast-code-ai-frontend.onrender.com) | Built a novel tool analyzing code and generating humorous, constructive audio feedback. |
