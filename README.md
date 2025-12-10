@@ -1,18 +1,41 @@
-# 💫 About Me:
-I am a self-taught full stack web developer. <br>I have developed skills through practical experience and building projects. <br>I am passionate about web development and eager to find opportunities to grow and contribute to an organization.<br>
+# 💫 About Me
+**Full-Stack Developer | AI & MERN Stack Specialist**  
+I build and deploy production-ready web applications that solve real-world problems. My focus is on creating full-stack systems with clean architecture, measurable performance gains, and clear business value. Currently seeking SDE roles to contribute impactful solutions.  
 
+📬 **Let's Connect:** [LinkedIn](https://linkedin.com/in/sumanth-cs) | [Email](mailto:sumanthshetty698@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sumanth-cs) 
+## 🚀 Featured Projects
+These are not just codebases; they are live applications being used by real people.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumanth-cs&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumanth-cs&theme=merko&hide_border=false)<br/>
+| Project | Tech Stack | Live Link | Key Achievements |
+| :--- | :--- | :--- | :--- |
+| **JobPadosi** – Job Portal | MERN, Stripe, Firebase | [jobpadosi.com](https://www.jobpadosi.com) | Served 1000+ users; built admin analytics reducing moderation time by 30%. |
+| **Royal House Designs** – Real Estate Platform | MERN, AWS EC2, Razorpay | [royalhousedesign.com](https://www.royalhousedesign.com) | Cut manual inquiry handling by ~50% with dashboard & payment integration. |
+| **Dharmtantra** – News Portal (Internship) | MERN, Render, SEO | [dharmtantra.com](https://www.dharmtantra.com) | Boosted organic traffic by **300%** through SEO & performance optimization. |
+| **RoastCode AI** – AI Code Reviewer | Flask, OpenAI, Gemini, ElevenLabs | [Live App](https://roast-code-ai-frontend.onrender.com) | Built a novel tool analyzing code and generating humorous, constructive audio feedback. |
+
+## 💼 Professional Experience
+**Web Developer Intern** @ Dharmtantra | *Apr – Jul 2025* | [Certificate](https://drive.google.com/file/d/1IIbgvtqiEYmHAMwI1czDDYFipk3BqL-C/view)  
+- **Achievement:** Enhanced website SEO and performance, leading to a **300% increase in organic traffic** and a 40% improvement in page load speed.
+- **Tech:** React, Node.js, Express, MongoDB, Render.
+
+**Freelance Full-Stack Developer** | *Jun – Sep 2025*  
+- **Clients:** Royal House Designs, JobPadosi. Built from scratch, deployed on AWS EC2 & Render, and integrated payment systems (Razorpay, Stripe).
+
+## 🛠️ Technical Arsenal
+**Languages:** JavaScript, Python, C, C++, Java  
+**Frontend:** React.js, Vite, Tailwind CSS, Material-UI  
+**Backend:** Node.js, Express.js, REST APIs, Authentication, MVC  
+**Databases:** MongoDB, Firebase, MySQL  
+**Cloud & DevOps:** AWS EC2, Docker, CI/CD, Git/GitHub, Render  
+**Tools & APIs:** Stripe, Razorpay, OpenAI, Gemini, ElevenLabs, JWT, Cloudinary
+
+## 📜 Certifications
+- **Introduction to AI/ML** – Google [[View]](https://skills.google.com/public_profiles/199b8a00-d53e-4823-9def-9e5241146668/badges/20726738)
+- **Junior Cybersecurity Analyst** – Cisco [[View]](https://drive.google.com/file/d/1EVW15YoWnbitPFzONpGQFxQrCY1AENza/view)
+- **DevOps from Zero to Hero** – MindLuster [[View]](https://drive.google.com/file/d/1MOwMyrLamihURBXwpHUNXL9zeAPRSndm/view)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sumanth-cs&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumanth-cs&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth-cs&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
